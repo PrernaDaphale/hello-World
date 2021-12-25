@@ -1,4 +1,4 @@
-# hello-World
+# Hello-World
 simple program
 #include<stdio.h>
 {
